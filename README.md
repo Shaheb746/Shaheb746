@@ -1,29 +1,50 @@
-<h1 align="center">Hi 👋, I'm Mohammad Shaheb</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hi there, I'm Shaheb!
 
-- 🔭 I’m currently working on [Full Stack Project](https://)
+🚀 I’m a passionate learner and builder with a growing interest in **Cybersecurity** and a solid foundation in **Web Development**.
 
-- 🌱 I’m currently learning **React and Database**
+---
 
-- 👨‍💻 All of my projects are available at [https://shahab.vercel.app/](https://shahab.vercel.app/)
+## 🛠️ My Tech Stack
 
-- 📫 How to reach me **mrshahab746@gmail.com**
+- 🌐 HTML | CSS | JavaScript | Tailwind CSS
+- ⚙️ ReactJS | Three.js | Email.js
+- 🐍 Python | Bash | PHP (basics)
+- 💾 SQL | MongoDB
+- 🛡️ Wireshark | Nmap | Burp Suite | Ettercap | mitmproxy
+- 🖥️ Linux Basics | Shell Scripting
 
-- ⚡ Fun fact **💻 I'm a CS/IT student who speaks fluently in code, but still trying to debug my coffee addiction! ☕👨‍💻**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_shahab746" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_shahab746" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md shahab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md shahab" height="30" width="40" /></a>
-<a href="https://instagram.com/md_shahab01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_shahab01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/md_shaheb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="md_shaheb" height="30" width="40" /></a>
-</p>
+## 🔐 Currently Exploring Cybersecurity
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+I'm diving deep into:
+- Ethical Hacking & Pentesting
+- Network Security (MITM, Packet Sniffing)
+- Web App Vulnerabilities (XSS, SQLi, File Upload bypass, etc.)
+- CTFs & Challenges (TryHackMe, PicoCTF)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaheb746&show_icons=true&locale=en&layout=compact" alt="shaheb746" /></p>
+> 🛠️ Hands-on practice with tools like `Burp Suite`, `nmap`, `wireshark`, `hydra`, `gobuster`, and more!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaheb746&show_icons=true&locale=en" alt="shaheb746" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaheb746&" alt="shaheb746" /></p>
+## 🧑‍💻 Projects & Hands-On Work
+
+| Project                     | Tech / Focus Area            | Description |
+|-----------------------------|------------------------------|-------------|
+| 🌦️ Weather Web App          | React, API Integration       | Real-time weather data using OpenWeatherMap API |
+| 🎬 Movie Info Website        | HTML, JS, OMDb API           | Fetching & displaying movie info dynamically |
+| 🔐 Steganography Script      | Python, PIL, LSB             | Extracts hidden messages from images |
+| 🌐 PG Booking UI Clone       | HTML, CSS, JS                | Frontend clone with dynamic filtering |
+| ⚠️ MITM Simulation Lab       | Ettercap, Kali Linux         | Simulated ARP spoofing in a lab environment |
+
+---
+
+## 📚 Learning 
+
+- 🛡️ Cybersecurity 
+- 💡 Regular on **TryHackMe**, **OverTheWire**, **Rootme**
+
+---
+
+- 💼 [Portfolio Website](https://your-portfolio-link.vercel.app)
+
